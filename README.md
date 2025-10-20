@@ -1,4 +1,4 @@
-# SkinCanser
+# SkinCancer
 ## 📊 Veri Seti
 
 Bu proje, not defterinde `Skin_Data.zip` olarak adlandırılan harici bir veri
